@@ -27,7 +27,7 @@ pyprind==2.9.3
 pytz==2020.1
 seqrecord-expanded==0.2.12
 typing==3.7.4.3
-aiohttp==1.3.5
+aiohttp==3.7.4
 future-fstrings==1.2.0
 elasticsearch==1.4.0
 celery[redis]==4.3.1
